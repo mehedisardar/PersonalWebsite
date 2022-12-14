@@ -14,10 +14,6 @@ Copyright (c) 2015 Daniel Eden
   animation-fill-mode: both;
 }
 
-.scroll-down {
-  text-align: center;
-}
-
 .animated-fast {
   -webkit-animation-duration: .5s;
   animation-duration: .5s;

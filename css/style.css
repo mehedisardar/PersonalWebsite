@@ -19,6 +19,10 @@ body {
   background: #fff;
 }
 
+#scroll-down {
+  text-align: center;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
